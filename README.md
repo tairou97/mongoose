@@ -1,8 +1,3 @@
-
-
-
-
-
 ## 1. Ein Schema für Benutzerprofile erstellen.
 ## 2. Eine Einfügeoperation für neue Benutzer implementieren.
 ## 3. Benutzer nach Namen suchen.
